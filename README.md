@@ -1,4 +1,4 @@
-# Previs-o-pre-o-Airbnb
+# previsao_preco_airbnb_rj
 Análise exploratória de dados dataset Airbnb, clusterização de imóveis baseado em características físicas e previsão de preço aplicando técnicas de séries temporais.
 
 a.	Como foi a definição da sua estratégia de modelagem?
